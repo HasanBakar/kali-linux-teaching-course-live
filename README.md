@@ -6,5 +6,5 @@ A comprehensive, hands-on Kali Linux teaching course designed for cybersecurity 
 
 ## Complete Module Overview
 | Serial | Module Name | Description | Class Lecture | Class Notes | Challenges |
-|:------:|:-----------|:-----------|:-------------:|:----------:|
+|:------:|:-----------|:-----------|:-------------:|:----------:| :-------------:|
 | **01** | **Introduction to Kali Linux** | Complete introduction to Kali Linux distribution, installation methods, and initial configuration setup | [📺 Lecture]() | [Notes](./Lessons/Lesson_One/Lecture.md) | [🎯 Challenge](./Lessons/Lesson_One/Challenges.md) |
